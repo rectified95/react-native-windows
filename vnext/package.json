@@ -59,12 +59,13 @@
     "@types/react-native": "^0.63.18",
     "eslint": "6.8.0",
     "eslint-plugin-prettier": "2.6.2",
-    "flow-bin": "^0.128.0",
+    "flow-bin": "^0.129.0",
     "jscodeshift": "^0.9.0",
     "just-scripts": "^0.36.1",
     "prettier": "1.17.0",
+    "react-shallow-renderer": "16.13.1",
     "react": "16.13.1",
-    "react-native": "0.0.0-a36d9cd7e",
+    "react-native": "0.0.0-d3fb036d6",
     "react-native-platform-override": "^0.2.8",
     "react-native-windows-codegen": "0.1.6",
     "react-refresh": "^0.4.0",
@@ -72,7 +73,7 @@
   },
   "peerDependencies": {
     "react": "16.13.1",
-    "react-native": "0.0.0-a36d9cd7e"
+    "react-native": "0.0.0-d3fb036d6"
   },
   "beachball": {
     "defaultNpmTag": "canary",
